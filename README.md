@@ -1,0 +1,1 @@
+This repository demonstrates a bug and its solution related to Firebase offline data synchronization.  The bug exhibits data loss or inconsistency when network connectivity is interrupted. The solution implements robust error handling and ensures data is reliably synced when the connection is restored.  Detailed explanations are provided in the comments of the respective files.
